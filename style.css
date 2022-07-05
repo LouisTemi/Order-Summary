@@ -113,11 +113,15 @@ a:hover{
     .main{
         width: 90%;
     }
+    .body-text{
+        width: 80%;
+        margin: 0 auto;
+    }
     .body-text h3{
         font-size: 1.5em;
     }
     p{
-        font-size: 1em;
+        font-size: .9em;
     }
     .annual-plan, a{
         font-weight: .8em;
